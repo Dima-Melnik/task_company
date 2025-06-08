@@ -1,0 +1,11 @@
+bin/
+*.exe
+*.test
+*.out
+
+vendor/
+
+config.yaml
+
+.vscode/
+.idea/

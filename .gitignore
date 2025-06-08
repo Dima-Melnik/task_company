@@ -5,7 +5,9 @@ bin/
 
 vendor/
 
-config.yaml
+conf.yaml
 
 .vscode/
 .idea/
+
+.env
